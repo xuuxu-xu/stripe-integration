@@ -2,6 +2,7 @@
   "name": "stripe-integration",
   "version": "1.0.0",
   "main": "node index.deploy.mjs",
+  "type": "module",
   "scripts": {
     "start": "node index.deploy.mjs"
   },
